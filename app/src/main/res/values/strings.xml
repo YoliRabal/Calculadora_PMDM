@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="clear">C</string>
+    <string name="equal">=</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="log">log</string>
+    <string name="ln">ln</string>
+    <string name="sqrt">√</string>
+    <string name="_0">0</string>
+    <string name="_7">7</string>
+</resources>

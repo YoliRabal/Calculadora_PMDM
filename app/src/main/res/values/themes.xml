@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Calculadora" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#1E2746</item> <!-- Fondo principal oscuro -->
+        <item name="colorPrimaryVariant">#2B3A67</item> <!-- Fondo de la pantalla de resultados -->
+        <item name="colorAccent">#F4A261</item> <!-- Color de acento para botones operativos -->
+        <item name="android:colorBackground">#1E2746</item> <!-- Fondo de la app -->
+        <item name="android:windowBackground">#1E2746</item> <!-- Fondo de la ventana -->
+    </style>
+</resources>
